@@ -4,8 +4,8 @@
 # Deployment script
 
 .deploy_template: &deploy_template
-  tags:
-    - kubernetes #Only runners with this tag are used
+  #tags:
+  #  - kubernetes #Only runners with this tag are used
   image: bitnami/kubectl:latest
   stage: deploy
   script:
