@@ -1,5 +1,5 @@
 # Components-Mysql
-for the ODALA project.
+for the ODALA project. MySQL is required for [Keyrock](https://fiware-idm.readthedocs.io/en/latest/)
 
 © 2022 Contrasec Oy
 
